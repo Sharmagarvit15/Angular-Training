@@ -36,14 +36,14 @@ input, select, button {
 }
 
 button {
-    background-color: #5cb85c;
+    background-color: #a7b85c;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #4cae4c;
+    background-color: #8fae4c;
 }
 
 #attendanceList {

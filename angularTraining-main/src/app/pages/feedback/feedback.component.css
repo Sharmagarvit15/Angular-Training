@@ -37,14 +37,14 @@ input, textarea, button {
 }
 
 button {
-    background-color: #5cb85c;
+    background-color: #acb85c;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #4cae4c;
+    background-color: #a1ae4c;
 }
 
 #feedbackList {

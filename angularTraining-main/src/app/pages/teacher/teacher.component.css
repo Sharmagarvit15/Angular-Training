@@ -34,14 +34,14 @@ input, button {
 }
 
 button {
-    background-color: #5cb85c;
+    background-color: #a6b85c;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #4cae4c;
+    background-color: #95ae4c;
 }
 
 #teacherList {

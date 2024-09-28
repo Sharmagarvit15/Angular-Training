@@ -34,14 +34,14 @@ input, select, button {
 }
 
 button {
-    background-color: #5cb85c;
+    background-color: #b8b75c;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #4cae4c;
+    background-color: #d8d14f;
 }
 
 #feeList {

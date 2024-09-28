@@ -15,7 +15,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #343a40;
+    color: #1b4167;
 }
 
 .announcement {
@@ -24,9 +24,9 @@ h1 {
 }
 
 .announcement h2 {
-    color: #007bff;
+    color: #57ff5c;
 }
 
 .announcement p {
-    color: #343a40;
+    color: #163452;
 }
